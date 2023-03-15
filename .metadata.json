@@ -1,10 +1,10 @@
 [
   {
-    "package": "polyclip",
+    "package": "goftest",
     "oncran": true
   },
   {
-    "package": "goftest",
+    "package": "polyclip",
     "oncran": true
   }
 ]

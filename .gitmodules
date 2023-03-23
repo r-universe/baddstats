@@ -18,6 +18,16 @@
 	url = https://github.com/baddstats/polyclip
 	shallow = true
 	registered = true
+[submodule "scuba"]
+	path = scuba
+	url = https://github.com/cran/scuba
+	shallow = true
+	registered = true
+[submodule "spatstat.gui"]
+	path = spatstat.gui
+	url = https://github.com/cran/spatstat.gui
+	shallow = true
+	registered = true
 [submodule "spatstat.local"]
 	path = spatstat.local
 	url = https://github.com/baddstats/spatstat.local

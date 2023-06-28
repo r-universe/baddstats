@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "globe"]
 	path = globe
 	url = https://github.com/baddstats/globe
-	shallow = true
-	registered = true
 [submodule "goftest"]
 	path = goftest
 	url = https://github.com/baddstats/goftest
-	shallow = true
-	registered = true
 [submodule "polyclip"]
 	path = polyclip
 	url = https://github.com/baddstats/polyclip
-	shallow = true
-	registered = true
 [submodule "scuba"]
 	path = scuba
 	url = https://github.com/cran/scuba
-	shallow = true
-	registered = true
 [submodule "spatstat.gui"]
 	path = spatstat.gui
 	url = https://github.com/cran/spatstat.gui
-	shallow = true
-	registered = true
 [submodule "spatstat.local"]
 	path = spatstat.local
 	url = https://github.com/baddstats/spatstat.local
-	shallow = true
-	registered = true
